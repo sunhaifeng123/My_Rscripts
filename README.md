@@ -1,5 +1,5 @@
 # R_scripts
-R_scripts
+R_scripts includes some scripts created by Haifeng Sun to process some daily bio data.
 
 ## Usage:
 ### stringtie_tab_merge.R
