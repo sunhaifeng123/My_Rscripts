@@ -22,10 +22,9 @@ which will find all the files in the dir matched "\*.tab".
 
 #### Output:
 * Merge_Coverage.txt
-
 * Merge_FPKM.txt
-
 * Merge_TPM.txt
+
 
 ### stringtie_tab_merge.R
 ```
